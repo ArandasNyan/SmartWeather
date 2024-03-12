@@ -1,4 +1,4 @@
-# Smart Weather
+<h1 style="font-size: 32px;">Smart Weather</h1>
 
 ![Smart Weather Logo](smart_weather_logo.png)
 
@@ -16,8 +16,6 @@ O Smart Weather é um aplicativo de previsão climática que oferece informaçõ
   
 - **Mapas Interativos**: Visualize mapas meteorológicos interativos, incluindo radar, temperatura, umidade e velocidade do vento.
   
-- **Widgets Personalizáveis**: Adicione widgets personalizáveis à tela inicial do seu dispositivo para visualizar rapidamente as condições meteorológicas.
-
 ## Como Usar
 
 1. **Baixe e Instale o Aplicativo**: Procure pelo Smart Weather na loja de aplicativos do seu dispositivo móvel e faça o download gratuito.
