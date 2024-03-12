@@ -1,4 +1,4 @@
-<h1 style="font-size: 32px;">Smart Weather</h1>
+<h1 style="font-size: 48px;">Smart Weather</h1>
 
 ![Smart Weather Logo](smart_weather_logo.png)
 
