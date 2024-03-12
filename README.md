@@ -28,7 +28,7 @@ O Smart Weather é um aplicativo de previsão climática que oferece informaçõ
 
 ## Requisitos de Sistema
 
-- O Smart Weather está disponível para dispositivos iOS e Android.
+- O Smart Weather está disponível para dispositivos Android.
 - Requer uma conexão de internet para atualizar as previsões meteorológicas em tempo real.
 - Recomenda-se a atualização regular do aplicativo para obter as últimas melhorias e correções de bugs.
 
