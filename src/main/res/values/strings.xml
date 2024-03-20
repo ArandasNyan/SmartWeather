@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name" translatable="false">Smart Weather</string>
+    <string name="tab_today">Hoje</string>
+    <string name="tab_weekly">Semanal</string>
+    <string name="tab_settings">Configurações</string>
+
+    <string name="action_back">Voltar</string>
+    <string name="action_apply">Aplicar</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_open_about">Sobre</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_reload">Recarregar</string>
+    <string name="action_try_again">Tentar Novamente</string>
+
+    <string name="selected">Selecionado</string>
+
+    <string name="appearance_theme">Tema</string>
+    <string name="appearance_monet">Tema Dinâmico</string>
+    <string name="appearance_monet_description">Disponível no Android 12+</string>
+
+    <string name="settings_appearance">Aparência</string>
+    <string name="settings_appearance_description">Tema, cores dinâmicas</string>
+    <string name="settings_location">Localização</string>
+    <string name="settings_location_description">Local para obter dados</string>
+    <string name="settings_units">Unidades</string>
+    <string name="settings_units_description">Unidades para obtenção de dados, por exemplo, imperial/métrico</string>
+
+    <string name="location">Localização</string>
+    <string name="locations">Localizações</string>
+    <string name="location_add">Adicionar Localização</string>
+    <string name="location_picker_open">Abrir seletor de localização</string>
+    <string name="location_choose">Escolher uma Localização</string>
+
+    <string name="theme_system">Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Escuro</string>
+
+    <string name="unit_temp">Unidade de Temperatura</string>
+    <string name="celsius">Celsius (C°)</string>
+    <string name="fahrenheit">Fahrenheit (F°)</string>
+    <string name="unit_temp_desc">Celsius, Fahrenheit</string>
+
+    <string name="unit_wind">Unidade para o Vento</string>
+    <string name="kmh">Quilômetros/ Hora (km/h)</string>
+    <string name="ms">Metros por Segundo (m/s)</string>
+    <string name="mph">Milhas por Hora (mph)</string>
+    <string name="kn">Nós (kn)</string>
+    <string name="unit_wind_desc">Km/h, m/s, Mph, Nós</string>
+
+    <string name="unit_precipitation">Unidade de Precipitação</string>
+    <string name="mm">Milímetros (mm)</string>
+    <string name="inch">Polegadas (in)</string>
+    <string name="unit_precipitation_desc">Milímetros, Polegadas</string>
+
+    <string name="weather_high">Alto: %1$d%2$s</string>
+    <string name="weather_low">Baixo: %1$d%2$s</string>
+    <string name="feels_like">Sensação de %1$d%2$s</string>
+    <string name="weather_precipitation">Precipitação: %1$d&#65130;</string>
+    <string name="weather_description">%1$s - Sensação de %2$d%3$s</string>
+
+    <string name="precipitation_probability">Probabilidade de Precipitação</string>
+    <string name="precipitation_amount">Quantidade de Precipitação</string>
+    <string name="wind_speed">Velocidade do Vento</string>
+
+    <string name="today_in">Hoje em %1$s</string>
+
+    <string name="unknown">Sem dados</string>
+
+    <string name="error">Ocorreu um erro</string>
+    <string name="error_location">"Não foi possível obter a localização. Certifique-se de conceder permissão e habilitar o GPS."</string>
+</resources>
